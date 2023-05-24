@@ -80,7 +80,6 @@ Figure 5: Sales Distribution in 2021 – NYC-Richmond Hill
  
 Figure 6: Five-Year Expected Growth Rate (2017 – 2021) – Queens-Richmond Hill
 
- 
 Appendix-4
 Figure 7: Five-Year Expected Growth Rate (2017 – 2021) – NYC-Richmond Hill
 
