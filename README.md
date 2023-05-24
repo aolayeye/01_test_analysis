@@ -59,37 +59,44 @@ Comparing these revenue figures with sales trends observed in previous analyses,
 The standout point here is the significant disparity in revenue between boroughs and neighborhoods. It's interesting to see how the property prices and market activity in each borough or neighborhood directly affect the revenue generated. Such insights can be crucial for real estate companies when planning their strategies or deciding where to open new offices.
 
  
-Appendix-1
-Figure 1: 5 – Number Summary – Property Type
+## Appendix-1
+#### Figure 1: 5 – Number Summary – Property Type
+![AD571_week1_0521-part-1](https://github.com/aolayeye/01_test_analysis/assets/67847583/bd788866-a350-4ff1-a130-ee78022e9dd8)
 
 
- 
-Figure 2: 5 – Number Summary – Gross Square Feet & Sale Price
-
- 
-Appendix-2
-Figure 3: Total Sales by Property Type – Boroughs, Neighborhoods
+#### Figure 2: 5 – Number Summary – Gross Square Feet & Sale Price
+![AD571_week1_0521-part-2](https://github.com/aolayeye/01_test_analysis/assets/67847583/cb3834c1-63a0-4128-8412-a272579e439f)
 
  
-Figure 4: Sales Distribution in 2021 – Queens-Richmond Hill
+## Appendix-2
+#### Figure 3: Total Sales by Property Type – Boroughs, Neighborhoods
+![AD571_week1_0521-part-3](https://github.com/aolayeye/01_test_analysis/assets/67847583/0de65a0e-589a-4410-9294-a338054ab3d9)
+
+#### Figure 4: Sales Distribution in 2021 – Queens-Richmond Hill
+![AD571_week1_0521-part-4](https://github.com/aolayeye/01_test_analysis/assets/67847583/6420bafa-55f2-4abb-b0e7-06e978bfed82)
 
  
-Appendix-3
-Figure 5: Sales Distribution in 2021 – NYC-Richmond Hill
+## Appendix-3
+#### Figure 5: Sales Distribution in 2021 – NYC-Richmond Hill
+![AD571_week1_0521-part-5](https://github.com/aolayeye/01_test_analysis/assets/67847583/79db62b3-b6f7-4cdf-a28f-f9c37a44209d)
+
+#### Figure 6: Five-Year Expected Growth Rate (2017 – 2021) – Queens-Richmond Hill
+![AD571_week1_0521-part-6](https://github.com/aolayeye/01_test_analysis/assets/67847583/73935e46-2925-416d-825b-ef7ee885d8e5)
+
+## Appendix-4
+#### Figure 7: Five-Year Expected Growth Rate (2017 – 2021) – NYC-Richmond Hill
+![AD571_week1_0521-part-7](https://github.com/aolayeye/01_test_analysis/assets/67847583/6504da71-7bbe-454c-9290-fa63a22bd49d)
+
+
+#### Figure 8: Compound Annual Growth Rate (CAGR)
+![AD571_week1_0521-part-8](https://github.com/aolayeye/01_test_analysis/assets/67847583/0aa4abb8-2f5c-4035-a6e7-36d03284b941)
 
  
-Figure 6: Five-Year Expected Growth Rate (2017 – 2021) – Queens-Richmond Hill
-
-Appendix-4
-Figure 7: Five-Year Expected Growth Rate (2017 – 2021) – NYC-Richmond Hill
-
- 
-Figure 8: Compound Annual Growth Rate (CAGR)
+## Appendix-5
+#### Figure 9: Total Revenue
+![AD571_week1_0521-part-9](https://github.com/aolayeye/01_test_analysis/assets/67847583/d33a388c-88d0-412a-ab4d-84e373ee5505)
 
  
-Appendix-5
-Figure 9: Total Revenue
-
- 
-Figure 10: Heatmap Sale Price – Queens 
+#### Figure 10: Heatmap Sale Price – Queens 
+![AD571_week1_0521-part-10](https://github.com/aolayeye/01_test_analysis/assets/67847583/a24771a7-3f13-4f0a-8afd-71b1c3ece27e)
 
